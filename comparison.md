@@ -11,14 +11,6 @@
 ### Compare (PSNR)
 |ZSSR|Ours|
 |--|--|
-|![lincoln](./results/comparison/shocher/lincoln.png)|![lincoln](./results/comparison/results-torch/lincoln_ep500_x2_C96_H2_N4.png)
-
-|ZSSR|Ours|
-|--|--|
-|![lincoln](./results/comparison/shocher/kennedy.png)|![lincoln](./results/comparison/results-torch/kennedy_ep1000_x2_C96_H2_N4.png)
-
-|ZSSR|Ours|
-|--|--|
 |![plane](./results/comparison/shocher/plane.png)|![lincoln](./results/comparison/results-torch/plane_ep1000_x2_C96_H2_N4.png)
 |35.57|36.01|
 
@@ -51,3 +43,11 @@
 |--|--|
 |![elephant](./results/comparison/shocher/elephant.png)|![lincoln](./results/comparison/results-torch/elephant_ep1000_x2_C96_H2_N4.png)
 |26.43|27.98|
+
+|ZSSR|Ours|
+|--|--|
+|![lincoln](./results/comparison/shocher/lincoln.png)|![lincoln](./results/comparison/results-torch/lincoln_ep500_x2_C96_H2_N4.png)
+
+|ZSSR|Ours|
+|--|--|
+|![lincoln](./results/comparison/shocher/kennedy.png)|![lincoln](./results/comparison/results-torch/kennedy_ep1000_x2_C96_H2_N4.png)

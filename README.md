@@ -14,7 +14,11 @@
 - Time spent: 40 sec (On Google Colab GPU)
 - Enhanced prediction (Averaging results): None
 
+
 ### Result
+**Note**: For larger images, see [comparison.md](./comparison.md)
+<br>
+
 ![lincoln](./results/comparison/torch/lincoln_ep500_x2_C96_H2_N4.png)
 ![plane](./results/comparison/torch/plane_ep1000_x2_C96_H2_N4.png)
 ![bird](./results/comparison/torch/bird_ep1000_x2_C96_H2_N4.png)
